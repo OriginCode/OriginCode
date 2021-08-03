@@ -1,8 +1,8 @@
-# Elo Informazio
+# Informazio
 
 Io som OriginCode, una pezia de codigo depot origina descognosida.
 
-# Ela Statistica
+# Statistica
 
 ![OriginCode Stats](https://github-readme-stats.vercel.app/api?username=OriginCode&show_icons=true&theme=dark)
 
