@@ -1,8 +1,8 @@
-# Informazio
+# Informoj
 
-Io som OriginCode, una pezia de codigo depot origina descognosida.
+Mi estas OriginCode, peco de kodo de nekonata origino.
 
-# Statistica
+# Statistiko
 
 ![OriginCode Stats](https://github-readme-stats.vercel.app/api?username=OriginCode&show_icons=true&theme=dark)
 
