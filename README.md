@@ -2,7 +2,7 @@
 
 Mi estas OriginCode, peco de kodo de nekonata origino.
 
-Current [University of Washington - Seattle](https://www.washington.edu) undergraduate student, B.S. in Informatics
+Current [University of Washington - Seattle](https://www.washington.edu) undergraduate student, B.S. in [Informatics](https://ischool.uw.edu/)
 
 2nd-year student, Sophomore. I wrote some small projects for my daily drive and mainly use Rust.
 
