@@ -6,7 +6,7 @@ I'm currently a [University of Washington - Seattle](https://www.washington.edu)
 
 I'm an amateur software engineer, I'm also interested in Chinese linguistics.
 
-I use [AOSC OS](https://aosc.io) as my daily drive OS, it's also a Linux distribution that I make contributions to.
+I use [AOSC OS](https://aosc.io) as my daily drive OS, it's also the Linux distribution that I make contributions to.
 
 # Statistics :/
 
