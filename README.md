@@ -4,9 +4,9 @@ I'm OriginCode, you might have seen XtenDimension, Force0x1, COMPL.EXE, 千須�
 
 I'm currently a [University of Washington - Seattle](https://www.washington.edu) undergraduate student, B.S. in [Informatics](https://ischool.uw.edu/)
 
-I'm an amateur software engineer, I'm also interested in Chinese linguistics.
+I'm an amateur software engineer, I'm also interested in Chinese linguistics (I'm a Northern Wu Chinese speaker!).
 
-I use [AOSC OS](https://aosc.io) as my daily drive OS, it's also the Linux distribution that I make contributions to.
+I use [AOSC OS](https://aosc.io) as my daily driver, it's also the Linux distribution that I make contributions to.
 
 # Statistics :/
 
