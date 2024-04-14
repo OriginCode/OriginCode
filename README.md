@@ -2,7 +2,9 @@
 
 I'm OriginCode, you might have seen XtenDimension, Force0x1, COMPL.EXE, 千須末, 泉湧花 or CONN.EXE somewhere, they are all me.
 
-I'm currently a [University of Washington - Seattle](https://www.washington.edu) undergraduate student, B.S. in [Informatics](https://ischool.uw.edu/).
+Most of my personal projects are hosted and maintained on my GitLab instance [Factoria](https://factoria.origincode.me).
+
+I'm currently a [UW Seattle](https://www.washington.edu) undergraduate student, B.S. in [Informatics](https://ischool.uw.edu/).
 
 I'm an amateur software engineer, I'm also interested in Chinese linguistics (I'm a Northern Wu Chinese speaker!).
 
