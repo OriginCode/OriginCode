@@ -18,4 +18,6 @@ _Honestly, I don't really care about my pronouns, you can use whatever you want.
 
 ## MUG?
 
-I'm also a rhythm game player, I spend most of my free time playing beatmania IIDX. I also play a wide range of other arcade rhythm games, PC rhythm games too, but no mobile ones (I don't like tapping on a screen).
+I'm also a rhythm game player, I spend most of my free time playing beatmania IIDX (as of 2024-08-13 I'm SP 中伝 and DP 四段).
+
+I also play a wide range of other arcade rhythm games, PC rhythm games too, but no mobile ones (I don't like tapping on a screen, so I don't play CHUNITHM either).
