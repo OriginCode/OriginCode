@@ -14,8 +14,6 @@ I use [AOSC OS](https://aosc.io) as my daily driver, it's also the Linux distrib
 
 ![OriginCode Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriginCode&exclude_repo=dotfiles&layout=compact&theme=dark)
 
-_Honestly, I don't really care about my pronouns, you can use whatever you want. There are no gendered pronouns in almost all Chinese languages :/, and I'm a Chinese._
-
 ## MUG?
 
 I'm also a rhythm game player, I spend most of my free time playing beatmania IIDX (as of 2024-08-13 I'm SP 中伝 and DP 四段).
