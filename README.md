@@ -16,6 +16,6 @@ I use [AOSC OS](https://aosc.io) as my daily driver, it's also the Linux distrib
 
 ## MUG?
 
-I'm also a rhythm game player, I spend most of my free time playing beatmania IIDX (as of 2024-09-02 I'm SP 中伝 and DP 五段).
+I'm also a rhythm game player, I spend most of my free time playing beatmania IIDX (as of 2024-09-04 I'm SP 中伝 and DP 五段).
 
 I also play a wide range of other arcade rhythm games, PC rhythm games too, but no mobile ones (I don't like tapping on a screen, so I don't play CHUNITHM either).
