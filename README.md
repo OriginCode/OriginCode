@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm OriginCode, you might have seen XtenDimension, Force0x1, COMPL.EXE, 千須末, 泉湧花 or CONN.EXE somewhere, they are all me.
+I'm OriginCode, you might have seen XtenDimension, Force0x1, COMPL.EXE, 繁雜緒, 千須末, 泉湧花 or CONN.EXE somewhere, they are all me.
 
 Most of my personal projects are hosted and maintained on my GitLab instance [Factoria](https://factoria.origincode.me/OriginCode).
 
